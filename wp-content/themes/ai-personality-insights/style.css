@@ -1,0 +1,505 @@
+/*
+Theme Name: Ai Personality Insights
+Theme URI:  https://www.wpserveur.net
+Author:     Technocrackers
+Author URI: https://technocrackers.com/
+Template:   twentyseventeen
+Version:    1.0
+License:    GNU General Public License v2 or later
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i');
+
+body * + * {
+    margin-top: 0rem;
+	font-family: 'Poppins', sans-serif;
+}
+.site-header {
+    background-color: #fff;
+}
+.site-branding {
+    padding: 10px 0px 0px 0px;
+	    background: #111820;
+      margin: 0px !important
+}
+.main-navigation ul {
+	background: transparent;
+}
+.main-navigation ul li ul{
+	background: #fff !important;
+}
+.main-navigation ul li ul li:hover,
+.main-navigation ul li ul li:focus{
+	background: #fff !important;
+}
+.main-navigation ul li ul li a{
+	color:#777777 !important;
+}
+.site-menu .navigation-top {
+    bottom: auto;
+    font-size: 14px;
+    font-size: 0.875rem;
+    left: auto;
+    position: relative;
+    right: auto;
+    width: auto;
+    z-index: 3;
+    display: block;
+    float: none;
+    border: 0px;
+    background: transparent;
+}
+.logo {
+    display: inline-block;
+    float: left;
+}
+.menu-main-menu-container{
+	margin: 0px;
+}
+.main-navigation li {
+    margin: 0;
+	padding:18px 0px;
+}
+.main-navigation li a{
+	color:#fff !important;
+	position:relative;
+	font-weight: bold;
+  font-size: 16px;
+  background: #111820;
+  padding: 10px 25px;
+}
+.main-navigation li:before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    width: 0;
+    height: 5px;
+    -webkit-transition: 700ms cubic-bezier(0.17, 0.67, 0, 1.01);
+    -o-transition: 700ms cubic-bezier(0.17, 0.67, 0, 1.01);
+    transition: 700ms cubic-bezier(0.17, 0.67, 0, 1.01);
+}
+.main-navigation .menu-item.current-menu-item:before,
+.main-navigation .menu-item:hover:before {
+    background-color: #111820;
+    width: 60px;
+}
+.site-branding a:hover, .site-branding a:focus {
+    opacity: 1;
+}
+.site-content {
+    padding: 0em 0 0;
+}
+.main-navigation > div > ul {
+    display: flex !important;
+    justify-content: space-between;
+}
+.section-report-tc, .section-credit-tc{
+  width: 100%;
+  max-width: 48%;
+  margin: 0px 1% 0px 0px;
+  min-height: 1px;
+  float: left;
+}
+/*#site-navigation .menu-main-menu-container #top-menu{
+	margin: 20px 0px;
+}*/
+.page.page-one-column .entry-header{
+	margin-bottom: 1em;
+}
+label.base--inline-label.credit_scrore_lbl {
+    float: right;
+    margin: 0px 0px 10px 0px;
+}
+.buy_credit_aria {
+    text-align: center;
+    margin-bottom: 43px;
+    padding: 25px;
+}
+a.button.button-primary.buy_credit_btn {
+    border: 1px solid;
+    display: inline-block;
+    padding: 10px;
+    font-weight: 700;
+}
+.quantity {
+    text-align: center;
+    width: 100%;
+    max-width: 30%;
+    vertical-align: middle;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+input#quantity_credit {
+    margin: 0;
+}
+label[for="quantity_credit"] {
+    padding: 10px;
+}
+a.button.button-primary.buy_credit_btn:hover {
+    background-color: #000;
+    color: #fff;
+}
+.simplePopup {
+  display: none;
+  position: fixed !important;
+  border: 4px solid #808080;
+  background: #fff;
+  z-index: 8;
+  padding: 0px;
+  width: 100%;
+  max-width: 70%;
+  top: 50% !important;
+  transform: translateY(-50%);
+}
+div#buy_credit_tc {
+    max-width: 40%;
+}
+
+.simplePopupClose {
+    float: right;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.simplePopupBackground {
+display:none;
+background:#000;
+position:fixed;
+height:100%;
+width:100%;
+top:0;
+left:0;
+z-index:5;
+}
+.lbl_login{
+  display: block;
+}
+form#loginform, form#signup {
+    display: block;
+    text-align: left;
+}
+.custom-header {
+    margin-bottom: 30px !important;
+}
+.techno-main-login {
+    /*text-align: center;*/
+}
+form#loginform input,form#signup input {
+    margin: 0;
+}
+.forms_tech {
+    display: block;
+}
+.techno-main-ragister{
+    width: 100%;
+    max-width: 52%;
+    padding: 5px 20px;
+    float: left;
+}
+.techno-main-login{
+    width: 100%;
+    max-width: 40%;
+    background: #f9f9f9;
+    text-align: center;
+    padding: 50px 30px;
+    margin-right: 50px;
+    border: 2px solid #000;
+    float: left;
+    overflow: hidden;
+}
+
+button.button.button-primary {
+    color: #fff;
+    font-weight: 800 !important;
+    margin-top: 1rem;
+}
+.techno-main-ragister {
+    margin-top: 0;
+}
+.col-5,.col-1 {
+  float: left;
+  margin-top: 0;
+  padding: 5px;
+  width: 100%;
+  max-width: 50%;
+}
+.forms_tech{
+  margin: 0px;
+}
+p.login-submit {
+    text-align: left;
+}
+.woocommerce-MyAccount-navigation ul{
+	    background: #111820;
+}
+.woocommerce-MyAccount-navigation ul li{
+	padding:.5em !important;
+	transition: 0.5s;
+}
+.woocommerce-MyAccount-navigation ul li a{
+	color:#fff;
+}
+.woocommerce-MyAccount-navigation ul li:hover{
+	padding:.5em .5em .5em .8em!important;
+} 
+.woocommerce-MyAccount-navigation ul li a:hover{
+	color:#fff;
+	    box-shadow: none !important;
+}
+.single-post:not(.has-sidebar) #primary, .page.page-one-column:not(.twentyseventeen-front-page) #primary, .archive.page-one-column:not(.has-sidebar) .page-header, .archive.page-one-column:not(.has-sidebar) #primary {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+.section-credit-tc ul{
+  list-style-type: none;
+  max-width: 60%;
+  width: 100%;
+  float: left;
+}
+.credit-btn{
+  float: right;
+}
+span.credit-detail {
+  width: 100%;
+  max-width: 50%;
+  display: inline-block;
+  font-style: italic;
+}
+.report_list,
+.credit-sec{
+  list-style-type: none;
+  border: 2px solid #111820;
+  padding: 10px;
+}
+.credit-sec{
+  min-height: 200px;
+}
+.credit-sec button {
+    padding: 15px 20px !important;
+}
+.report_list li{
+	color: #111820;
+    padding: 10px 0px;
+}
+.report_list li span{
+	margin-right:15px;
+	font-weight:bold;
+}
+.report_list li a{
+  color: #111820;
+  box-shadow: none;
+  text-transform: capitalize;
+}
+.report_list li a:hover{
+	color:#b71f3a;
+}
+.report_list li a:hover{
+	box-shadow:none !important;
+}
+span.date {
+    font-weight: normal !important;
+}
+.section-articles-tc ul{
+  list-style-type: none;
+}
+.section-articles-tc ul li span{
+  margin: 0px 15px 0px 0px;
+}
+input#name_of_report {
+    border: 2px solid #000;
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+form.cart{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    flex-basis: auto;
+    max-width: 100%;
+    margin: 0px auto 5px auto;
+}
+form.cart .quantity {
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+    margin: 0 auto;
+    display: flex;
+	align-items: center;
+}
+form.cart  button.button.button-primary {
+    color: #fff;
+    font-weight: 800 !important;
+    margin-top: 0;
+    width: 72%;
+    margin-left: 0px;
+    padding: 12px;
+}
+.report-name{
+  margin-top: 20px;
+}
+.section-report-tc.repot-page-section {
+    width: 100%;
+    max-width: 100%;
+}
+ul.report_list.billing-page li span:nth-child(1){
+    width: 100%;
+    max-width: 20%;
+    display: inline-block;
+    margin: 0px;
+}
+ul.report_list.billing-page li span:nth-child(2){
+    width: 100%;
+    max-width: 58%;
+    display: inline-block;
+    margin: 0px;
+}
+ul.report_list.billing-page li span:nth-child(3){
+    width: 100%;
+    max-width: 10%;
+    display: inline-block;
+    margin: 0px;
+}
+ul.report_list.billing-page li span:nth-child(4){
+    width: 100%;
+    max-width: 10%;
+    display: inline-block;
+    margin: 0px;
+}
+.section-top-tc .section-transactions-tc{
+  width: 100%;
+  max-width: 68%;
+  float: left;
+  min-height: 1px;
+  margin-right: 2%;
+}
+.section-top-tc .section-credit-tc.add-credit {
+    width: 30%;
+    min-height: 1px;
+    float: left;
+    margin: 0px;
+}
+.section-top-tc .section-credit-tc.add-credit ul{
+  max-width: 100%;
+} 
+.copy-text p{
+	margin-bottom:0px;
+	color:#747474;
+	font-family: 'Roboto Condensed', sans-serif;
+	    font-size: 15px;
+    line-height: 24px;
+}
+.site-footer {
+    background: #000;
+}
+#quantity_credit{
+	max-width:60%;
+}
+.woocommerce-message,
+.woocommerce-info{
+    background: #b71f3a;
+    color: #fff;
+}
+.woocommerce-cart h1.entry-title,
+.woocommerce-checkout h1.entry-title{
+	font-size: 1.875rem !important;
+    letter-spacing: 0 !important;
+}
+.wc-proceed-to-checkout a{
+	padding: 0.5em 1em;
+    color: #b71f3a !important;
+background-color: transparent !important;
+    border: 2px solid #111820 !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    line-height: 16px !important;
+    letter-spacing: -0.2px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px !important;
+    border-color: #b71f3a !important;
+    padding: 15px!important;
+}
+.wc-proceed-to-checkout a:hover{
+    background:#b71f3a !important;
+	color:#fff !important;
+	border:2px solid #b71f3a !important;
+}
+.cart-collaterals{
+	    margin-top: 80px;
+}
+.section-report-tc.repot-page-section ul.report_list li a.r_list{
+  display: block;
+}
+.section-report-tc.repot-page-section ul.report_list li a span{
+    width: 100%;
+    max-width: 30%;
+    display: inline-block;
+}
+#signup .col-5,
+#signup .col-1{
+  width: 100%;
+  max-width: 100%;
+}
+@media only screen and (max-width: 768px) 
+{  
+  .forms_tech {
+      display: block;
+  }
+  .techno-main-login {
+    max-width: 100%;
+    padding: 20px 20px;
+  }
+  div#loginform_tc {
+      position: absolute !important;
+  }
+  .col-5, .col-1 {
+    margin-top: 0;
+    padding: 5px;
+    width: 100%;
+    max-width: 100%;
+  }
+  .techno-main-ragister {
+    text-align: center;
+    max-width: 100%;
+    padding: 18px 20px;
+  }
+  input[type="text"],input[type="email"],input[type="password"]{
+    padding: 5px;
+  }
+  p.login-password,p.login-remember.forgetmenot {
+      margin: 0;
+  }
+  input#wp-submit,button.button.button-primary {
+    padding: 10px;
+  }
+  .simplePopup {
+    max-width: 85%;
+  }
+}
+.csv_export_btn{
+    color: #b71f3a !important;
+    background-color: transparent !important;
+    border: 2px solid #111820 !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    line-height: 16px !important;
+    letter-spacing: -0.2px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px !important;
+    border-color: #b71f3a !important;
+    padding: 15px!important;
+    display: inline-block;
+}
+.download_btn_area {
+    float: right;
+    margin-right: 57px;
+    margin-top: 25px;
+}

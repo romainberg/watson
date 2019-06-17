@@ -1,0 +1,118 @@
+2019-05-31T08:17:21+00:00 CRITICAL syntax error, unexpected ''report_csv'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/ai-personality-insights.php on line 132
+
+2019-05-31T09:30:09+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_DateTime as array in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:30:12+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_DateTime as array in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:30:33+00:00 CRITICAL Uncaught Error: Call to undefined method WC_DateTime::get_date() in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:30:35+00:00 CRITICAL Uncaught Error: Call to undefined method WC_DateTime::get_date() in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:32+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:34+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:36+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:36+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:37+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:37+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:38+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:38+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:38+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:35:38+00:00 CRITICAL Uncaught Error: Call to a member function getTimestamp() on string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php:16
+Stack trace:
+#0 /home/rbergdweseo/ai.romainberg.com/wp-includes/template-loader.php(78): include()
+#1 /home/rbergdweseo/ai.romainberg.com/wp-blog-header.php(19): require_once('/home/rbergdwes...')
+#2 /home/rbergdweseo/ai.romainberg.com/index.php(17): require('/home/rbergdwes...')
+#3 {main}
+  thrown in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 16
+
+2019-05-31T09:43:32+00:00 CRITICAL syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 21
+
+2019-05-31T09:43:56+00:00 CRITICAL Object of class DateTime could not be converted to string in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/billing-page.php on line 17
+

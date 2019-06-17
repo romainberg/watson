@@ -1,0 +1,45 @@
+<?php return array (
+  'codeToName' => 
+  array (
+    57345 => 'code',
+    57346 => 'down-arrow',
+    57347 => 'likely',
+    57348 => 'link',
+    57349 => 'not-likely',
+    57350 => 'reset',
+  ),
+  'isUnicode' => true,
+  'EncodingScheme' => 'FontSpecific',
+  'FontName' => 'icons',
+  'FullName' => 'icons',
+  'Version' => 'Version 1.0',
+  'PostScriptName' => 'icons',
+  'Weight' => 'Medium',
+  'ItalicAngle' => '0',
+  'IsFixedPitch' => 'false',
+  'UnderlineThickness' => '0',
+  'UnderlinePosition' => '0',
+  'FontHeightOffset' => '63',
+  'Ascender' => '1000',
+  'Descender' => '0',
+  'FontBBox' => 
+  array (
+    0 => '0',
+    1 => '0',
+    2 => '1656',
+    3 => '1000',
+  ),
+  'StartCharMetrics' => '7',
+  'C' => 
+  array (
+    57345 => 1000.0,
+    57346 => 1625.0,
+    57347 => 1000.0,
+    57348 => 1000.0,
+    57349 => 1000.0,
+    57350 => 1000.0,
+  ),
+  'CIDtoGID_Compressed' => true,
+  'CIDtoGID' => 'eJztzgERgCAAALFHwP6RjSF3bAlWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxxg9zVa79+8KAAAAAAAAAAAAAAAAAAAA3OkDP54AFg==',
+  '_version_' => 6,
+);

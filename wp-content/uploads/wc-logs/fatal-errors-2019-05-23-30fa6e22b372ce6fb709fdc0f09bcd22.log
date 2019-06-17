@@ -1,0 +1,30 @@
+2019-05-23T11:22:16+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1065
+
+2019-05-23T11:23:06+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1065
+
+2019-05-23T11:23:57+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1065
+
+2019-05-23T11:23:59+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1065
+
+2019-05-23T11:24:01+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1065
+
+2019-05-23T11:24:26+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1065
+
+2019-05-23T11:32:06+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1060
+
+2019-05-23T11:41:32+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1060
+
+2019-05-23T11:41:34+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1060
+
+2019-05-23T11:41:35+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1060
+
+2019-05-23T11:41:36+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1060
+
+2019-05-23T11:41:36+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1060
+
+2019-05-23T11:41:36+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1060
+
+2019-05-23T11:41:36+00:00 CRITICAL syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 1060
+
+2019-05-23T11:44:09+00:00 CRITICAL require_once(): Failed opening required 'https://ai.romainberg.com/wp-content/themes/ai-personality-insights/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/analyze-report.php on line 5
+

@@ -1,0 +1,16 @@
+[24-May-2019 11:12:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 174
+[24-May-2019 11:12:26 UTC] PHP Notice:  Undefined variable: result in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 339
+[24-May-2019 11:28:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 174
+[24-May-2019 11:28:52 UTC] PHP Notice:  Undefined variable: result in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 339
+[24-May-2019 11:32:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 174
+[24-May-2019 11:32:11 UTC] PHP Notice:  Undefined variable: result in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 339
+[24-May-2019 11:32:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 174
+[24-May-2019 11:32:14 UTC] PHP Notice:  Undefined variable: result in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 339
+[24-May-2019 11:45:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 174
+[24-May-2019 11:45:16 UTC] PHP Notice:  Undefined variable: result in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 339
+[24-May-2019 12:29:52 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 1068
+[24-May-2019 12:29:58 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 1068
+[24-May-2019 12:30:26 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 1068
+[24-May-2019 12:30:52 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 1068
+[24-May-2019 13:03:22 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 1068
+[24-May-2019 13:03:23 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/rbergdweseo/ai.romainberg.com/wp-content/themes/ai-personality-insights/functions.php on line 1068
